@@ -77,7 +77,6 @@ $ cd git-1.7.2.2
 $ make prefix=/usr/local all
 $ sudo make prefix=/usr/local install
 ```
-
 ### Windows 平台上安装
 在 Windows 平台上安装 Git 同样轻松，有个叫做 msysGit 的项目提供了安装包，可以到 GitHub 的页面上下载 exe 安装文件并运行：
 
@@ -111,6 +110,10 @@ Git 提供了一个叫做 git config 的工具，专门用来配置或读取相�
 ```bash
 $ git config --global user.name "runoob"
 $ git config --global user.email test@runoob.com
+```
+
+```bash
+$ niu 
 ```
 
 如果用了 --global 选项，那么更改的配置文件就是位于你用户主目录下的那个，以后你所有的项目都会默认使用这里配置的用户信息。
