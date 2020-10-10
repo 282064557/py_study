@@ -1,30 +1,22 @@
-# py_study
+# 栗子先生的python学习道路
 
 #### 介绍
 python语言学习
 
 #### 软件架构
-软件架构说明
-
+html+python
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+暂无
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+暂无
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+暂无
 
 
 #### 特技
