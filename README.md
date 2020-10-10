@@ -1,10 +1,6 @@
 # 栗子的python学习道路
 
-## day01
-### 0.1打印
+## 学习目录
 
-
-```python
-print("heelo,world!")
-```
-
+### day01
+打印 “print” 用法！
