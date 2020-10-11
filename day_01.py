@@ -64,6 +64,7 @@ print("============cancai============")
 print('path:',path)
 print("请问一下你是谁!")
 print("ni shi shiui ?")
+print("ni shi shui ?")
 
 
 
