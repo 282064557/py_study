@@ -54,12 +54,12 @@ print()
 
 import sys
 print('================Python import mode==========================')
-print ('命令行参数为:')
+print('命令行参数为:')
 for i in sys.argv:
     print (i)
-print ('\n python 路径为',sys.path)
+print('\n python 路径为',sys.path)
 
-from sys import argv,path 
+from sys import argv,path
 print("============cancai============")
 print('path:',path)
 print("请问一下你是谁!")
