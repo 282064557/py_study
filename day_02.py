@@ -41,3 +41,12 @@ level = level + 1   #level值上层已经赋予了1，所以是1+1，现在的le
 print(level)        #输出2
 print(level*3)      #输出6
 
+print("my name is \'666\'")
+print('you name is "4444"')
+
+you = 'my name is:'
+name = 'ccvfx'
+print(you + name) 
+
+print('a'*100)
+

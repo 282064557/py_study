@@ -39,6 +39,18 @@ print(10 + 1.3)     #输出11.3(备注整数类型是可以和浮点数相加的
 ccvfx = "请问你今天吃了饭没有？"
 print（ccvfx）
 #'name' = "egon" 这个是错误的语法，左边是变量名
+#字符串的嵌套，注意：外层用单引号，内存应该用双引号，反之
+print("my name is \'666\'")
+print('you name is "4444"')
+#字符串直接也是可以相加的
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+print("my name is" + "666")  
+ 或者 
+a = "my name is"
+name="ccvfx"
+print(a + name)
+#字符串可以相乘
+print（a*10）
 ```
 
 列类型：
@@ -47,5 +59,11 @@ print（ccvfx）
 >>>
 info = ["wuzhifeng",18,"我是谁？"]
 print(info[0])
->>>>输出结果为：wuzhifrng
+>>>输出结果为：wuzhifrng
+```
+布尔类型：
+
+```python
+>>>
+>>>
 ```
