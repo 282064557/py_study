@@ -66,7 +66,27 @@ print("请问一下你是谁!")
 print("ni shi shiui ?")
 print("ni shi shui ?")
 print("我是谁！")
-print("")
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -6,3 +6,46 @@
 $AGE_OF_WZF = 73 
 ```
 # 修改
+无
+
+# 数据类型
+整数型：int
+```python
+>>>作用：记录年龄，身份证等没有小数点的数字
+>>>定义：
+age = 18                   #定义年龄
+print(type(age))           #输出年龄
+
+```
+浮点类型：float
+```python
+>>>作用：记录薪资，身高，等带小数点的数字
+>>>定义：
+height = 168          #定义身高值
+print（height）       #输出身高
+```
+数字类型其他使用
+```python
+level = 1           #level值等于1
+level = level + 1   #level值上层已经赋予了1，所以是1+1，现在的level是等于3
+print(level)        #输出2
+print(level*3)      #输出6 
+print(10 + 1.3)     #输出11.3(备注整数类型是可以和浮点数相加的)
+```
+字符串类型：
+```python
+>>>作用：记录描述性质的状态，名字，一段话
+>>>定义：用引号（'',"",''' ''',""  ""）包含的字符串
+ccvfx = "请问你今天吃了饭没有？"
+print（ccvfx）
+#'name' = "egon" 这个是错误的语法，左边是变量名
+```
+
+列类型：
+```python
+>>>
+>>>
+info = ["wuzhifeng",18,"我是谁？"]
+print(info[0])
+>>>>输出结果为：wuzhifrng
+```
