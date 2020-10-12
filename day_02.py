@@ -17,13 +17,12 @@ import sys
 x = 10
 y = x
 z = y
-del x    #解除变量名x与10的绑定关系
-print(x)
-import sys
-del x
 print("jbj b")
+print()
+import sys
+print("牛逼")
 
-
-
-
-
+print(id(x))
+print(type(x))
+print(id(name))
+print(id(name))
