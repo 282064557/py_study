@@ -61,9 +61,9 @@ info = ["wuzhifeng",18,"我是谁？"]
 print(info[0])
 >>>输出结果为：wuzhifrng
 ```
-布尔类型：
+布尔类型：z
 
 ```python
->>>
->>>
+>>>作用：
+>>>定义：
 ```
