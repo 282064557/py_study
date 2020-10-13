@@ -48,6 +48,23 @@
 
 # print('a'*100)
 
-wangxiao_info = [["吴志峰",19,"你是谁?"],["王建夫",18,"我是你爸爸?"]]
-print(wangxiao_info[0][0],wangxiao_info[1][0])
+# wangxiao_info = [["吴志峰",19,"你是谁?"],["王建夫",18,"我是你爸爸?"]]
+# print(wangxiao_info[0][0],wangxiao_info[1][0])
+
+# d = {"a":1,"b":2}
+# print(d["a"])
+# print(type(d))
+
+# info = {"name":"吴志峰","nianling":19,"aihao":"打篮球"}
+# print(info["name"])
+
+# infotwo = [
+#     {"name":"吴志峰","nianling":19,"aihao":"打篮球"},
+#     {"name":"王建夫","nianling":20,"aihao":"打飞机"}
+# ]
+# print(infotwo[1]["name"],infotwo[0]["name"])
+
+
+
+
 
