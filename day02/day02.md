@@ -60,6 +60,9 @@ print（a*10）
 info = ["wuzhifeng",18,"我是谁？"]
 print(info[0])
 >>>输出结果为：wuzhifrng
+wangxiao_info = [["吴志峰",19,"你是谁?"],["王建夫",18,"我是你爸爸?"]]
+print(wangxiao_info[0][0],wangxiao_info[1][0])
+>>>输出结果为【吴志峰 王建夫】
 ```
 布尔类型：z
 

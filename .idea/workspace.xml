@@ -24,7 +24,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9391dd6e-9998-4d00-9780-ccdae9e41dc8" name="Default Changelist" comment="dfgklj" />
+    <list default="true" id="9391dd6e-9998-4d00-9780-ccdae9e41dc8" name="Default Changelist" comment="提交修改意">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02/day02.md" beforeDir="false" afterPath="$PROJECT_DIR$/day02/day02.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02/day_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/day02/day_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/day03.py" beforeDir="false" afterPath="$PROJECT_DIR$/day03/day03.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,10 +47,10 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/Python38" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.day_01">
+  <component name="RunManager" selected="Python.day_02 (1)">
     <configuration name="day_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,6 +64,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day_02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day02/day_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,12 +116,16 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day_02 (1)" />
         <item itemvalue="Python.day_01" />
         <item itemvalue="Python.day_02" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\28206\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9391dd6e-9998-4d00-9780-ccdae9e41dc8" name="Default Changelist" comment="" />
@@ -131,6 +161,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="dfgklj" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2506" y="198" key="#Inspections" timestamp="1602601481825">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2506" y="198" key="#Inspections/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602601481825" />
     <state x="2602" y="343" key="#Notifications" timestamp="1602442999038">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -139,33 +173,34 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602442475161" />
-    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1602443581406">
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1602603032439">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602443581406" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1602443225322">
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602603032439" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1602602103985">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602443225322" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1602443225322">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602602103985" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1602602103985">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602443225322" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1602443225321">
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602602103985" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1602602103985">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602443225321" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1602443225322">
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602602103985" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1602602103985">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602443225322" />
-    <state x="2381" y="164" key="SettingsEditor" timestamp="1602443587892">
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602602103985" />
+    <state x="2381" y="164" key="SettingsEditor" timestamp="1602603041119">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2381" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602443587892" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602443205437">
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602602832152" />
+    <state x="2381" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602603041119" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602602101677">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602443205437" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602602101677" />
   </component>
 </project>
